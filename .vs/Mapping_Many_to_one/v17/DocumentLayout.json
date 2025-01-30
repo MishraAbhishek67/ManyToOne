@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|c:\\users\\abhishekmishra\\source\\repos\\mapping_many_to_one\\mapping_many_to_one\\migrations\\20250128060253_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D076AE5-B11D-48A1-A8DD-9EB3A49C85D0}|Mapping_Many_to_one\\Mapping_Many_to_one.csproj|solutionrelative:mapping_many_to_one\\migrations\\20250128060253_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\DTO\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\DTO\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\DTO\\CompanyDTO.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\DTO\\CompanyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:49:06.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Entity\\Department.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Entity\\Department.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Entity\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:05:54.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Entity\\Company.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Entity\\Company.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Entity\\Company.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Entity\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:18:34.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:35:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:08:10.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Entity\\Employee.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:05:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Program.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Program.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Program.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:01:02.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\appsettings.json",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\appsettings.json",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\appsettings.json",
+              "RelativeToolTip": "Mapping_Many_to_one\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T05:57:07.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250128060253_m3.cs",
+              "DocumentMoniker": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Migrations\\20250128060253_m3.cs",
+              "RelativeDocumentMoniker": "Mapping_Many_to_one\\Migrations\\20250128060253_m3.cs",
+              "ToolTip": "C:\\Users\\AbhishekMishra\\source\\repos\\Mapping_Many_to_one\\Mapping_Many_to_one\\Migrations\\20250128060253_m3.cs",
+              "RelativeToolTip": "Mapping_Many_to_one\\Migrations\\20250128060253_m3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:02:54.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

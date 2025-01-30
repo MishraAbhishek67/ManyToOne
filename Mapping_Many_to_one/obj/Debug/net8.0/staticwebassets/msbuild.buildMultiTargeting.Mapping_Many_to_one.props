@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mapping_Many_to_one.props" />
+</Project>
