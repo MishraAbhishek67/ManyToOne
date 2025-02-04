@@ -6,6 +6,7 @@ namespace Mapping_Many_to_one.DTO
     {
         [Required(ErrorMessage = "Company name is required.")]
         [StringLength(100, ErrorMessage = "Company name cannot exceed 100 characters.")]
+        [UniqueCompanyName]
         public string CompanyName { get; set; }
 
 

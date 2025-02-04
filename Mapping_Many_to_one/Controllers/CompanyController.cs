@@ -65,6 +65,23 @@ namespace Mapping_Many_to_one.Controllers
             {
                 return BadRequest(ModelState);
             }
+
+
+
+            // Check if company already exists
+
+
+            //var existingCompany = await DbContext.Companies
+            //    .Include(c => c.Departments)
+            //    .FirstOrDefaultAsync(c => c.Name == dto.CompanyName);
+
+            //if (existingCompany != null)
+            //{
+            //    return BadRequest("Company name must be unique. A company with this name already exists.");
+            //}
+
+
+
             // Create the company object
             var companyData = new Company
             {
